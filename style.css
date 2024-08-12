@@ -610,6 +610,9 @@ main .recent-orders a {
         to {
             left: 0;
         }
+        from{
+            left: 100%;
+        }
     }
 
     aside .logo {
